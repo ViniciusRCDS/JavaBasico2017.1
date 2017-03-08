@@ -1,3 +1,4 @@
+package br.unipe.java.unidade1;
 import java.util.Scanner;
 
 public class EstruturaControle2 {
