@@ -2,9 +2,10 @@ package br.unipe.java.unidade1;
 
 public class Cliente {
 
-	private String nome;
+	public String nome;
 	private String endereco;
-
+    public static  String CONSTANTE="UMA_CONSTANTE";
+	
 	public Cliente(String nome, String endereco) {
 		super();
 		this.nome = nome;
